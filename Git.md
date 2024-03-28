@@ -96,9 +96,9 @@ GitHub
 
 https://github.com/
 
-|        | 用户名     |      | 密码        |      |                   |
-| -----: | ---------- | ---- | ----------- | ---- | ----------------- |
-| github | wuchen2022 |      | chenjnu2016 |      | 1036542915@qq.com |
+|        | 用户名     |      | 密码   |      |                   |
+| -----: | ---------- | ---- | ------ | ---- | ----------------- |
+| github | wuchen2022 |      | ****** |      | 1036542915@qq.com |
 
 创建ssh密钥
 
@@ -106,7 +106,7 @@ https://github.com/
 cd ~/.ssh
 ssh-keygen -t rsa -b 4096
 密钥文件名 id_rsa
-密钥文件密码:test
+密钥文件密码:******
 
 ls -ltr
 C:\Users\Administrator\.ssh\id_rsa 私钥文件
